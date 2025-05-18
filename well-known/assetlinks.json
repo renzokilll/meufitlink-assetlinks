@@ -5,7 +5,7 @@
       "namespace": "android_app",
       "package_name": "com.kauancleutonbrtech.fitlink",
       "sha256_cert_fingerprints": [
-        "INSERIR_O_SHA256_AQUI"
+        "SHA384withRSA"
       ]
     }
   }
