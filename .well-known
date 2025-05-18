@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kauancleutonbrtech.fitlink",
+      "sha256_cert_fingerprints": [
+        "EC:67:08:CF:D1:0B:49:E8:28:60:8E:62:CA:1D:3D:92:E5:2E:BF:CC:37:3E:FE:28:BE:71:93:73:84:C0:12:B8"
+      ]
+    }
+  }
+]
